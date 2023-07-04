@@ -15,7 +15,7 @@ And report
 
 ## How is it used?
 It may be used to fix the way questions are asked and clear the misunderstanding of wrong-asked questions. 
-It also can improve the way professors.
+It also can improve the way professors use words.
 
 ## Data sources and AI methods
 Database of all the main words contained in the most wrong-answered questions
